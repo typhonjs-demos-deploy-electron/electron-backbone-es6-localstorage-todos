@@ -2,7 +2,7 @@
   "name": "electron-backbone-es6-localstorage-todos",
   "version": "0.1.0",
   "homepage": "https://github.com/typhonjs-demos/electron-backbone-es6-localstorage-todos",
-  "description": "Electron Test",
+  "description": "Creates a desktop app using Electron from backbone-es6-localstorage-todos.",
   "license": "MIT",
   "repository": {
     "type": "git",
