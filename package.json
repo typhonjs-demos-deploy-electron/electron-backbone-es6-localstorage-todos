@@ -1,12 +1,12 @@
 {
-  "name": "electron-backbone-parse-es6-todos-improved",
+  "name": "electron-backbone-es6-localstorage-todos",
   "version": "0.1.0",
-  "homepage": "https://github.com/typhonjs-demos/electron-backbone-parse-es6-todos-improved",
+  "homepage": "https://github.com/typhonjs-demos/electron-backbone-es6-localstorage-todos",
   "description": "Electron Test",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/typhonjs-demos/electron-backbone-parse-es6-todos-improved/electron-backbone-parse-es6-todos-improved.git"
+    "url": "https://github.com/typhonjs-demos/electron-backbone-es6-localstorage-todos/electron-backbone-es6-localstorage-todos.git"
   },
   "jspm": {
     "dependencies": {
