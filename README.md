@@ -7,7 +7,7 @@ More documentation and tutorial coming soon. The basic installation steps:
 - Install Gulp globally "npm install gulp -g" (if necessary)
 - Install JSPM / SystemJS globally "npm install jspm -g" (if necessary)
 - Check out the source repo.
-- Run "npm install" from the local copy directory. (post install script will run `jspm install`)
+- Run "npm install" from the local copy directory. (post install script will run `jspm install` automatically)
 - If using WebStorm or an IDE which can import Gulp tasks then import them. 
 - Gulp task `electron-start` will launch the Desktop version of `backbone-es6-localstorage-todos`. 
 - Gulp task `electron-package-<platform>-<arch>` will build a standalone version of the app and place it in the `./build` directory. From the command line run `gulp --tasks` to find the specific platform / architecture task for your machine. On my MBP / OSX the task is: `electron-package-darwin-x64`.
