@@ -1,5 +1,5 @@
 /**
- * index.js -- Provides a minimal Electron app launching the bundled version of `backbone-es6-localstorage-todos`.
+ * app.js -- Provides a minimal Electron app launching the bundled version of `backbone-es6-localstorage-todos`.
  *
  * Please see the JSPM override for `backbone-es6-localstorage-todos` defined in `package.json` that limits files
  * installed by JSPM to the minimum necessary to launch the bundled app.
