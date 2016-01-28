@@ -24,4 +24,4 @@ While it is certainly possible to enable Electron support directly in any given 
 
 --------
 
-It should be noted that presently only `backbone-es6` apps work with Electron. Support for [backbone-parse-es6](https://github.com/typhonjs-parse/backbone-parse-es6) is coming soon when [JSPM](http://jspm.io/) 0.17.x is released. Presently JSPM doesn't support the Node runtime very well which is the environment Electron apps execute in, but this is changing soon and `backbone-parse-es6` will be updated to transparently support creating desktop apps with Electron. 
+Please see [electron-backbone-parse-es6-todos-improved](https://github.com/typhonjs-demos/electron-backbone-parse-es6-todos-improved) for an Electron desktop app version of [backbone-parse-es6-todos-improved](https://github.com/typhonjs-demos/backbone-parse-es6-todos-improved) which uses [backbone-parse-es6](https://github.com/typhonjs-parse/backbone-parse-es6).
