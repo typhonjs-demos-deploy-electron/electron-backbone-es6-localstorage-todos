@@ -1,9 +1,9 @@
 /**
- * Provides the minimum suggested `electron.json` configuration.
+ * Provides the minimum suggested `.electronrc` configuration.
  * Default values for `platform` & `arch` are set to the current platform / arch.
  * Default values for `source` are set to '.' and `out` is set to 'build'.
  *
- * For options to provide in `electron.json` please see:
+ * For options to provide in `.electronrc` please see:
  * https://www.npmjs.com/package/electron-packager#programmatic-api
  */
 {
