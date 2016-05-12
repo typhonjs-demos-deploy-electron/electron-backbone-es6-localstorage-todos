@@ -5,8 +5,8 @@
  * installed by JSPM to the minimum necessary to launch the bundled app.
  */
 
-var app =            require('app');
-var BrowserWindow =  require('browser-window');
+var app =            require('electron').app;
+var BrowserWindow =  require('electron').BrowserWindow;
 
 app.on('ready', function()
 {
